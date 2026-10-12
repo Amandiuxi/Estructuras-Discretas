@@ -2,7 +2,7 @@
 {-
   Estructuras Discretas 2027-1
   Binarios representados como listas de 0s y 1s
-  Nombre: 
+  Nombre: Amanda del Pilar Piñones Contreras
 
   IMPORTANTE:
   En esta representación el bit MENOS significativo aparece a la izquierda.
